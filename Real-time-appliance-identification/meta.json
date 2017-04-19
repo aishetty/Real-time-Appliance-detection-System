@@ -1,0 +1,21 @@
+[	{
+		"id": "1",
+		"meta": {
+			
+			"type": "Bulb 100 Watts"
+		}
+	},
+	{
+		"id": "2",
+		"meta": {
+			
+			"type": "CFL"
+		}
+	},
+	{
+		"id": "3",
+		"meta": {
+			"type": "Fan"
+		}
+	}
+]
